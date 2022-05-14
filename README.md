@@ -23,3 +23,6 @@ http(s)://{host}:{port}/h2-console
 ```
 
 Then find the "data can be found at jdbc:....." line in the logs and use that in the H2 Console.
+
+## References
+https://www.bezkoder.com/spring-boot-jpa-h2-example/
